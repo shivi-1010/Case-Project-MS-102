@@ -1,4 +1,3 @@
-# Case-Project-MS-102
 # Microsoft 365 Administration and Configuration Project  
 ### Case Project: Implementing and Managing Microsoft 365 Environment for a Mid-Sized Organization  
 
